@@ -10,7 +10,7 @@ import UIKit
 
 /// A UIViewController that is initalizable via `init()` alone.
 /// Credit: https://gist.github.com/juliancadi/370616e217ded71febbf5b96ecf788dc
-public class NiblessViewController: UIViewController {
+open class NiblessViewController: UIViewController {
 
   public init() {
     super.init(nibName: nil, bundle: nil)
