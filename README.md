@@ -17,4 +17,4 @@ pod 'PHBNibless'
 
 ## Licence
 
-PHBStackLayout is available under the MIT license. See the LICENSE file for more info.
+PHBNibless is available under the MIT license. See the LICENSE file for more info.
