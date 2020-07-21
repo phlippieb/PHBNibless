@@ -2,7 +2,7 @@
 
 _View and view controller with parameter-less initialisers_
 
-This is a CocoaPods-installable implementation of these gists:
+This is a CocoaPods-installable implementation of these gists by [juliancadi](https://gist.github.com/juliancadi):
 
 - [NiblessView.swift](https://gist.github.com/juliancadi/4533b689fba07cb250d9fd4902a99e8f)
 - [NiblessViewController.swift](https://gist.github.com/juliancadi/370616e217ded71febbf5b96ecf788dc)
